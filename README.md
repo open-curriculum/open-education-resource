@@ -46,6 +46,9 @@ _content-outline-title_
           - Download Location: `URL`
     - **assessment.md**
       - Style: `diagnostic, formative, summative`
+        - Diagnostic: `pre-test, self-assessment, writing, discussion, making, performance, interview`
+        - Formative: `exercises, eflective writing, Q.A. Session, Check-in, Self-evaluation, peer review, observation, paper/draft, project milestone`
+        - Summative: `exam, final exam, peer review, project, paper, portfolio, performance, student Course eval, instructor self eval`
       - Grading-rubric.csv [Using this project](https://github.com/mplewis/csvtomd)
         - Category
           - Category Name: `Text`
