@@ -2,7 +2,7 @@
 This repo will describe specifications for making importable OER content. Keep in mind, not every component in this structure will be relevant.
 
 ##Specs
-Content outline title
+_content-outline-title_
   - _module-name_ (IE – Lesson 1)
     - **overview.md**
       - Duration: `Y-m-d H:i:s - Y-m-d H:i:s`
