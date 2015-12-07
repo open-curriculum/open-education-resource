@@ -5,6 +5,7 @@ This repo will describe specifications for making importable OER content. Keep i
 Content outline title
   - _module-name_ (IE – Lesson 1)
     - **overview.md**
+      - Duration: `Y-m-d H:i:s - Y-m-d H:i:s`
       - Text or video description to get us excited about the topic
     - **learning-objectives.md**
       - Description (Why is this information important)
