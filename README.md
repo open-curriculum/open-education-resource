@@ -14,15 +14,14 @@ Content outline title
       - List items (What do we need to know in order to be successful)
     - **required-materials-or-equipment.md**
       - Are any materials needed?: `boolean`
-    - **scaffolding.md**
-      - **Steps-to-completion.md**
-        - List of steps to completion
-          - Approximate time to complete each item
-          - Assignment asset(s) Location: `URL`
-            - Visual preview: `Embed code`
-        - Assignment submission Location: `URL`
-        - In-time information
-          - Location: `URL`
+    - **Steps-to-completion.md**
+      - List of steps to completion
+        - Approximate time to complete each item
+        - Assignment asset(s) Location: `URL`
+          - Visual preview: `Embed code`
+      - Assignment submission Location: `URL`
+      - In-time information
+        - Location: `URL`
       - project-assets
     - **content.md**
       - These are not instructions, rather text and media discourse on a subject matter to generate critical thought.
