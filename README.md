@@ -3,28 +3,28 @@ This repo will describe specifications for making importable OER content.
 
 ##Specs
 Content outline title
-  - Module Name: (IE – Lesson 1)
+  - module-name.md (IE – Lesson 1)
     - Duration: `Y-m-d H:i:s - Y-m-d H:i:s`
-    - Overview.md
+    - **overview.md**
       - Text or video description to get us excited about the topic
-    - Learning-objectives.md
+    - **learning-objectives.md**
       - Description (Why is this information important)
-    - Prerequisite-knowledge-and-skills.md
+    - **prerequisite-knowledge-and-skills.md**
       - Does this have prereqs?: `boolean`
       - List items (What do we need to know in order to be successful)
-    - Required-materials-or-equipment.md
+    - **required-materials-or-equipment.md**
       - Are any materials needed?: `boolean`
-    - Scaffolding.md
-      - Steps-to-completion.md
+    - **scaffolding.md**
+      - **Steps-to-completion.md**
         - List of steps to completion
           - Approximate time to complete each item
+          - Assignment asset(s) Location: `URL`
+            - Visual preview: `Embed code`
         - Assignment submission Location: `URL`
         - In-time information
           - Location: `URL`
-        - Prefabriated Project Assets
-          - Download Location: `URL`
-          - Visual preview: `Embed code`
-    - Content.md
+      - project-assets
+    - **content.md**
       - These are not instructions, rather text and media discourse on a subject matter to generate critical thought.
       - Text
         - PDF version: `URL`
@@ -40,7 +40,7 @@ Content outline title
         - Download Location: `URL`
         - Embed Code
         - Transcript: `URL`
-    - Assessment
+    - **assessment.md**
       - Style: `diagnostic, formative, summative`
       - Grading-rubric.csv [Using this project](https://github.com/mplewis/csvtomd)
         - Category
