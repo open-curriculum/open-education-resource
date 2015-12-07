@@ -39,7 +39,7 @@ Content outline title
           - Buy texbook link: `URL`
           - Download textbook chapter: `URL`
           - Citation
-        - Video
+        - Media
           - In-page viewing: `Embed Code`
           - Transcript Download: `URL`
           - Download Location: `URL`
