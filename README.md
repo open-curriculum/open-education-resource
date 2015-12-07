@@ -26,20 +26,21 @@ Content outline title
       - _Project Assets_
     - **content.md**
       - These are not instructions, rather text and media discourse on a subject matter to generate critical thought.
-      - Text
-        - PDF version: `URL`
-        - Citations
-        - Fork OER Link: `URL` 
-      - Online Resource
-        - Location: `URL`
-        - Content Downloadable PDF, HTML, etc.
-        - Video transcript
-      - Textbook Chapter
-        - Citation
-      - Video
-        - In-page viewing: `Embed Code`
-        - Transcript Download: `URL`
-        - Download Location: `URL`
+      - One or any combination of the following:
+        - Text
+          - PDF version: `URL`
+          - Citations
+          - Fork OER Link: `URL` 
+        - Online Resource
+          - Location: `URL`
+          - Content Downloadable PDF, HTML, etc.
+          - Video transcript
+        - Textbook Chapter
+          - Citation
+        - Video
+          - In-page viewing: `Embed Code`
+          - Transcript Download: `URL`
+          - Download Location: `URL`
     - **assessment.md**
       - Style: `diagnostic, formative, summative`
       - Grading-rubric.csv [Using this project](https://github.com/mplewis/csvtomd)
