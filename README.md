@@ -1,10 +1,9 @@
 # Open Education Resource
-This repo will describe specifications for making importable OER content.
+This repo will describe specifications for making importable OER content. Keep in mind, not every component in this structure will be relevant.
 
 ##Specs
 Content outline title
   - _module-name_ (IE – Lesson 1)
-    - Duration: `Y-m-d H:i:s - Y-m-d H:i:s`
     - **overview.md**
       - Text or video description to get us excited about the topic
     - **learning-objectives.md**
