@@ -3,7 +3,7 @@ These are not instructions, rather text and media discourse on a subject matter 
 
 ##Media
 
-<img src="http://placehold.it/560x300&text=[Video]">
+<img src="http://placehold.it/560x300&text=[Video Embed]">
 
 Transcript [PDF Download](`URL`)
 
