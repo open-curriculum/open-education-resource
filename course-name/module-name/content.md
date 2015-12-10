@@ -1,1 +1,21 @@
 #Content
+
+- These are not instructions, rather text and media discourse on a subject matter to generate critical thought.
+      - One or any combination of the following:
+        - Text
+          - Markdown text
+          - PDF version: `URL`
+          - Citations
+          - Fork OER Link: `URL` 
+        - Online Resource
+          - Location: `URL`
+        - Textbook Chapter
+          - Visual preview: `Embed code`
+          - PDF download if appropriate `URL`
+          - Buy texbook link: `URL`
+          - Download textbook chapter: `URL`
+          - Citation
+        - Media
+          - In-page viewing: `Embed Code`
+          - Transcript Download: `URL`
+          - Download Location: `URL`
