@@ -1,10 +1,10 @@
-Category,% Earned,Total Possible Value
-Statement of research intent,0,10
-Production plan description,0,10
-Ideation maps and concept drawings,0,10
-Work Statement,0,20
-Production files submission,0,10
-Commication of content or concept,0,10
-Novelty and creativity,0,10
-Effort and perseverance,0,10
-"Craft, skill, and consistency",0,10
+Criterion ID,Description,% Earned,Total Possible Value
+1,Statement of research intent,0,10
+2,Production plan description,0,10
+3,Ideation maps and concept drawings,0,10
+4,Work Statement,0,20
+5,Production files submission,0,10
+6,Commication of content or concept,0,10
+7,Novelty and creativity,0,10
+8,Effort and perseverance,0,10
+9,"Craft, skill, and consistency",0,10

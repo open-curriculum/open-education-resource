@@ -1,7 +1,3 @@
-Category,Earned Value,Total Possible Value,,,,,
-Steps to completion were followed,0,5,,,,,
-Assignment submitted on time,0,5,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Criterion ID,Description,Earned Value,Total Possible Value
+1,Steps to completion were followed,0,5
+2,Assignment submitted on time,0,5
