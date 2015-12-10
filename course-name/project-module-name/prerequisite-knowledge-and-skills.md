@@ -1,1 +1,0 @@
-#Prerequisite knowledge and skills
