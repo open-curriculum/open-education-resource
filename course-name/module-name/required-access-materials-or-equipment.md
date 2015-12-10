@@ -1,1 +1,1 @@
-#Required access, materials, or equipment.md
+#Required access, materials, or equipment
