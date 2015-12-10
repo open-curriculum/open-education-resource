@@ -1,1 +1,13 @@
 #Assessment description
+- Style: `diagnostic, formative, summative`
+    - Diagnostic: `pre-test, self-assessment, writing, discussion, making, performance, interview`
+    - Formative: `exercises, reflective writing, Q.A. Session, check-in, self-evaluation, peer review, observation, paper/draft, project milestone`
+    - Summative: `exam, final exam, peer review, project, paper, portfolio, performance, student course eval, instructor self eval`
+  - grading-rubric.csv [Using this project](https://github.com/mplewis/csvtomd)
+    - Rubric style (style types not yet specified)
+    - Category
+      - Category Name: `Text`
+      - Due Date: `Y-m-d H:i:s`
+      - Total Value: `100`
+      - Default feedback: `Text`
+      - Custom feebback: `Text`
