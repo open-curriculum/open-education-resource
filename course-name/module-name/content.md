@@ -44,5 +44,3 @@ prepatriarchial capitalist theory.
 [PDF download](`URL`)
 
 [Buy texbook](`URL`)
-
-Textbook chapter [Download PDF](`URL`)
