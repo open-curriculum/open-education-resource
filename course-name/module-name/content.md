@@ -2,8 +2,12 @@
 These are not instructions, rather text and media discourse on a subject matter to generate critical thought. Choose one or any combination of the following components:
 
 ##Media
-- Transcript [PDF Download](`URL`)
-- Download Location: `URL`
+
+<img src="http://placehold.it/560x300&text=[Video]">
+
+Transcript [PDF Download](`URL`)
+
+Download Location: `URL`
 
 ##Text
 Debord uses the term ‘Debordist situation’ to denote the meaninglessness,
