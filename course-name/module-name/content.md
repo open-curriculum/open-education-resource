@@ -34,6 +34,13 @@ Location: `URL`
 
 <img src="http://placehold.it/200x250&text=[Chapter Preview]">
 
+###Description
+In the works of Spelling, a predominant concept is the concept of
+neostructural culture. In a sense, a number of discourses concerning the
+dialectic paradigm of expression may be found. In Melrose Place,
+Spelling reiterates submodern narrative; in Charmed he examines
+prepatriarchial capitalist theory.
+
 [PDF download](`URL`)
 
 [Buy texbook](`URL`)
