@@ -26,60 +26,85 @@ features:
           reminder-notification : YYYY-MM-DD
     assess:
       diagnostic : diag-01-name.csv
-        date: YYYY-MM-DD - YYYY-MM-DD 
+        date: YYYY-MM-DD - YYYY-MM-DD
+        reminder-notification : YYYY-MM-DD
         timed: no
         graded : no
       quiz-01 : quiz-01-name.csv
-        date: YYYY-MM-DD - YYYY-MM-DD 
+        date: YYYY-MM-DD - YYYY-MM-DD
+        reminder-notification : YYYY-MM-DD
         timed: no
         graded : yes
       quiz-02 : quiz-02-name.csv
-        date: YYYY-MM-DD - YYYY-MM-DD 
+        date: YYYY-MM-DD - YYYY-MM-DD
+        reminder-notification : YYYY-MM-DD
         timed: no
         graded : yes
       exam-01 : exam-01-name.csv
-        date: YYYY-MM-DD - YYYY-MM-DD 
+        date: YYYY-MM-DD - YYYY-MM-DD
+        reminder-notification : YYYY-MM-DD
         timed: no
         graded : yes
     blog : active
       access : public
       comments : private
-      graded : yes
         post-01 : 10pts
-          min-words : 150
+          reminder-notification : YYYY-MM-DD
+          graded : yes
+            min-words : 150
         post-02 : 10pts
-          min-words : 150
+          reminder-notification : YYYY-MM-DD
+          graded : yes
+            min-words : 150
         post-03 : 10pts
-          min-words : 150
+          reminder-notification : YYYY-MM-DD
+          graded : yes
+            min-words : 150
         post-04 : 10pts
-          min-words : 150
+          reminder-notification : YYYY-MM-DD
+          graded : yes
+            min-words : 150
         post-05 : 10pts
-          min-words : 150
+          reminder-notification : YYYY-MM-DD
+          graded : yes
+            min-words : 150
     discussions : active
       access : private
         critique-01 : 10pts
+          reminder-notification : YYYY-MM-DD
           graded : yes
-          total-responses : 3
+            total-responses : 3
         critique-02 : 10pts
+          reminder-notification : YYYY-MM-DD
           graded : yes
-          total-responses : 3
+            total-responses : 3
         critique-03 : 10pts
+          reminder-notification : YYYY-MM-DD
           graded : yes
-          total-responses : 3
+            total-responses : 3
         critique-04 : 10pts
+          reminder-notification : YYYY-MM-DD
           graded : yes
-          total-responses : 3
+            total-responses : 3
         critique-05 : 10pts
+          reminder-notification : YYYY-MM-DD
           graded : yes
-          total-responses : 3
+            total-responses : 3
     studio : active
       access : private
         project-01 : 10pts
+          reminder-notification : YYYY-MM-DD
           graded : yes
         project-02 : 10pts
-        graded : yes
+          reminder-notification : YYYY-MM-DD
+          graded : yes
         project-03 : 10pts
+          reminder-notification : YYYY-MM-DD
+          graded : yes
         project-04 : 10pts
-        graded : yes
+          reminder-notification : YYYY-MM-DD
+          graded : yes
         project-05 : 10pts
+          reminder-notification : YYYY-MM-DD
+          graded : yes
 comments: >
