@@ -56,24 +56,30 @@ features:
         post-05 : 10pts
           min-words : 150
     discussions : active
-      access : forum[public], one-one[private], many-many[public, private]
-      graded : yes
+      access : private
         critique-01 : 10pts
+          graded : yes
           total-responses : 3
         critique-02 : 10pts
+          graded : yes
           total-responses : 3
         critique-03 : 10pts
+          graded : yes
           total-responses : 3
         critique-04 : 10pts
+          graded : yes
           total-responses : 3
         critique-05 : 10pts
+          graded : yes
           total-responses : 3
     studio : active
       access : private
-      graded : yes
         project-01 : 10pts
+          graded : yes
         project-02 : 10pts
+        graded : yes
         project-03 : 10pts
         project-04 : 10pts
+        graded : yes
         project-05 : 10pts
 comments: >
