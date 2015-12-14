@@ -1,0 +1,79 @@
+course-name   : Course Name
+section       : 001
+offering-date : YYYY-MM-DD - YYYY-MM-DD
+platform      : elmsln
+theme         : default
+features:
+    content-outline : active
+      access : private
+      pdf : enable
+      accessibility : enable
+      content : 
+        week 1 : module-1-name.md
+          active : YYYY-MM-DD
+          reminder-notification : YYYY-MM-DD
+        week 2 : module-2-name.md
+          active : YYYY-MM-DD
+          reminder-notification : YYYY-MM-DD
+        week 3 : module-3-name.md
+          active : YYYY-MM-DD
+          reminder-notification : YYYY-MM-DD
+        week 4 : module-4-name.md
+          active : YYYY-MM-DD
+          reminder-notification : YYYY-MM-DD
+        week 5 : module-5-name.md
+          active : YYYY-MM-DD
+          reminder-notification : YYYY-MM-DD
+    assess:
+      diagnostic : diag-01-name.csv
+        date: YYYY-MM-DD - YYYY-MM-DD 
+        timed: no
+        graded : no
+      quiz-01 : quiz-01-name.csv
+        date: YYYY-MM-DD - YYYY-MM-DD 
+        timed: no
+        graded : yes
+      quiz-02 : quiz-02-name.csv
+        date: YYYY-MM-DD - YYYY-MM-DD 
+        timed: no
+        graded : yes
+      exam-01 : exam-01-name.csv
+        date: YYYY-MM-DD - YYYY-MM-DD 
+        timed: no
+        graded : yes
+    blog : active
+      access : public
+      comments : private
+      graded : yes
+        post-01 : 10pts
+          min-words : 150
+        post-02 : 10pts
+          min-words : 150
+        post-03 : 10pts
+          min-words : 150
+        post-04 : 10pts
+          min-words : 150
+        post-05 : 10pts
+          min-words : 150
+    discussions : active
+      access : forum[public], one-one[private], many-many[public, private]
+      graded : yes
+        critique-01 : 10pts
+          total-responses : 3
+        critique-02 : 10pts
+          total-responses : 3
+        critique-03 : 10pts
+          total-responses : 3
+        critique-04 : 10pts
+          total-responses : 3
+        critique-05 : 10pts
+          total-responses : 3
+    studio : active
+      access : private
+      graded : yes
+        project-01 : 10pts
+        project-02 : 10pts
+        project-03 : 10pts
+        project-04 : 10pts
+        project-05 : 10pts
+comments: >
