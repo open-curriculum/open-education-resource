@@ -1,6 +1,6 @@
 course-name : "Course Name"
 grading scale: "grading/grading-scale.csv"
-learning-modules : "module-name/"
+learning-modules : 
     - module: "module-name"
         - overview :
             - "module-name.md"
