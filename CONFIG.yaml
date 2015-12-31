@@ -3,6 +3,7 @@ grading-scale: "grading/grading-scale.csv"
 learning-modules :
   - Module 1 :
     - name : "module-name"
+    - location : "modules/module-name/"
     - content :
       - Overview :
         - "module-name.md"
@@ -10,27 +11,27 @@ learning-modules :
         - "learning-objectives.md"
         - "prerequisite-knowledge-and-skills.md"
         - "required-access-materials-or-equipment.md"
-  - Learning Resources :
-    - "content.md"
-    - "scaffolding/steps-to-completion.md"
-  - Assignments :
-    - location : "assignments/"
-    - Blog post 01 :
-      - location : "blog-posts/post-01.md"
-      - assessment : "assessment/simple-assignment/"
-      - description: "simple-assignment-description.md"
-      - rubric : "simple-assignment-rubric.csv"
-      - feedback : "simple-assignment-default-feedback.csv"
-    - Exercise 01 :
-      - location : "exercises/exercise-01.md"
-      - assessment : "assessment/simple-assignment/"
-      - description: "simple-assignment-description.md"
-      - rubric : "simple-assignment-rubric.csv"
-      - feedback : "simple-assignment-default-feedback.csv"
-    - Project 01 :
-      - location : "projects/post-01.md"
-      - assessment : "assessment/adaptive-assignment/"
-      - description: "adaptive-assignment-description.md"
-      - rubric : "adaptive-assignment-rubric.csv"
-      - feedback : "adaptive-assignment-default-feedback.csv"
+    - Learning Resources :
+      - "content.md"
+      - "scaffolding/steps-to-completion.md"
+    - Assignments :
+      - location : "assignments/"
+      - Blog post 01 :
+        - location : "blog-posts/post-01.md"
+        - assessment : "assessment/simple-assignment/"
+        - description: "simple-assignment-description.md"
+        - rubric : "simple-assignment-rubric.csv"
+        - feedback : "simple-assignment-default-feedback.csv"
+      - Exercise 01 :
+        - location : "exercises/exercise-01.md"
+        - assessment : "assessment/simple-assignment/"
+        - description: "simple-assignment-description.md"
+        - rubric : "simple-assignment-rubric.csv"
+        - feedback : "simple-assignment-default-feedback.csv"
+      - Project 01 :
+        - location : "projects/post-01.md"
+        - assessment : "assessment/adaptive-assignment/"
+        - description: "adaptive-assignment-description.md"
+        - rubric : "adaptive-assignment-rubric.csv"
+        - feedback : "adaptive-assignment-default-feedback.csv"
 # comments
